@@ -74,6 +74,6 @@ public class dome {
             e.printStackTrace();
         }
         //测试
-        return "内网穿透完成";
+        return "OK";
     }
 }
