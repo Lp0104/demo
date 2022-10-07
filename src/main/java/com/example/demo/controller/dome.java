@@ -16,6 +16,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author Administrator
+ */
 @RestController
 @RequestMapping("/api")
 public class dome {
@@ -74,6 +77,7 @@ public class dome {
             e.printStackTrace();
         }
         //测试
+        //哇哇哇哇
         return "OK";
     }
 }
