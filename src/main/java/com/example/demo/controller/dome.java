@@ -76,8 +76,6 @@ public class dome {
         }catch(Exception e) {
             e.printStackTrace();
         }
-        //测试
-        //哇哇哇哇
-        return "OK";
+        return "内网穿透";
     }
 }
